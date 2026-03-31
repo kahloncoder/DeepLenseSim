@@ -1,0 +1,9 @@
+numpy
+astropy
+colossus
+lenstronomy==1.9.2
+pydantic-ai
+nest-asyncio
+jupyterlab
+matplotlib
+git+https://github.com/dangilman/pyHalo.git
